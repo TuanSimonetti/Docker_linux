@@ -1,2 +1,2 @@
 # Docker_linux
-Essa é a imagem mais completa do linux que eu criei
+Nesse repo, eu reuno imagens do docker que eu acredito serem boas
